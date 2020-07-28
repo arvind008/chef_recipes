@@ -98,7 +98,7 @@ GEM
     httpclient (2.8.2.4)
     iniparse (1.4.2)
     ipaddress (0.8.3)
-    json (2.0.2)
+    json (2.3.1)
     libyajl2 (1.2.0)
     minitar (0.5.4)
     mixlib-archive (0.2.0)
