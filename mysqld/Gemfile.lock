@@ -101,7 +101,7 @@ GEM
     json (2.0.2)
     libyajl2 (1.2.0)
     minitar (0.5.4)
-    mixlib-archive (0.2.0)
+    mixlib-archive (0.4.20)
       mixlib-log
     mixlib-authentication (1.4.1)
       mixlib-log
